@@ -1,0 +1,14 @@
+{
+  "name": "Sonar Connector",
+  "slug": "sonar-connector",
+  "version": "1.0.2",
+  "download_url": "https://github.com/jmenes/sonar-connect/releases/download/v1.0.2/sonar-connector.zip",
+  "tested": "6.7",
+  "requires_php": "7.4",
+  "author": "menes.studio",
+  "author_profile": "https://github.com/jmenes/sonar-connect",
+  "sections": {
+    "description": "Conector nativo integral para la suite Sonar.",
+    "changelog": "<h4>1.0.2</h4><ul><li>Hotfix: eliminar llave sobrante en class-seo.php</li></ul>"
+  }
+}
